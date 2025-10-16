@@ -1,0 +1,14 @@
+# CLion artifacts
+.idea/
+cmake-build-debug/
+
+# Build artifacts
+*.o
+*.exe
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+
+
